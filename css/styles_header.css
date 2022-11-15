@@ -1,13 +1,9 @@
-body{
-    font-family: arial, sans-serif;
-    background-color: #FFFFF0;
-    margin:0px;
-}
 .header-header{
     height: 210px;
     background-color: antiquewhite;
     text-align: center;
     color: #F0AF01;
+    overflow: auto;
 }
 .header-header h1{
     text-transform: uppercase;
