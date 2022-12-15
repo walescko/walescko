@@ -2,14 +2,13 @@ main{
     margin-left: 300px;
     margin-right: 50px;
     width: auto;
-    color: #F0A001;
+    color: #FFFFF0;
     text-align: justify;
     border: #0F0F0F 5px;
     padding: 2px;
-    background-color: #ff00ff;
 }
 .content-section{
-    background-color: #ffffff;
+    background-color: #39b3d7;
     padding: 15px;
     margin: 1px;
     overflow: auto;

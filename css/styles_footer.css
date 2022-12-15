@@ -1,10 +1,10 @@
 footer{
     font-family: Arial;
     font-size: 14px;
-    color: #FFFFF0;
+    color: #39F3d7;
     text-shadow: #0F0F0F 1px 1px 1px;
     text-align: center;
-    background-color: #F0AF01;
+    background-color: #39a3FF;
     padding: 3px;
     text-transform: uppercase;
 }
@@ -26,6 +26,7 @@ footer{
     text-decoration: none;
     /*text-transform: uppercase;*/
     letter-spacing: 2px;
+    transition: color .2s linear;
 }
 .nav-footer p{
 

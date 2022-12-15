@@ -1,8 +1,8 @@
 .header-header{
     height: 210px;
-    background-color: antiquewhite;
+    background-color: lightskyblue;
     text-align: center;
-    color: #F0AF01;
+    color: #39a3EE;
     overflow: auto;
 }
 .header-header h1{
@@ -33,7 +33,7 @@
 .nav-header li{
     display: inline-block;
     border-style: solid;
-    border-color: #F0AF01;
+    border-color: #39a3FF;
     border-width: 2px;
 }
 .nav-header a{
@@ -45,15 +45,16 @@
     text-transform: uppercase;
     text-decoration-style: dotted;
     letter-spacing: 1px;
+    transition: color .2s linear;
 }
 a:link{
     text-decoration: none;
-    color: #F0AF01;
+    color: #39a3FF;
 }
 a:visited{
-    color: #F0AF01;
+    color: #39a3FF;
 }
 a:hover{
-    color: #00AACC;
-    background: rgba(200,200,200, 1);
+    color: #00FFFF;
+    /*background: rgba(200,200,200, 1);*/
 }
