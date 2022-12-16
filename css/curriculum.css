@@ -1,11 +1,12 @@
 body{
-    color: #F0AF01;
-    margin-left: 30px; margin-right: 30px; margin-bottom: 30px; margin-top: 30px;
+    color: #FBFF9F;
+    margin-left: 0; margin-right: 0; margin-bottom: 30px; margin-top: 30px;
+    background-color: #39b3d7;
 }
 
 h1 {
     text-align: center;
-    font-family: sans-serif; color: #F0A001; text-transform: uppercase;
+    font-family: sans-serif; color: #ffecb5; text-transform: uppercase;
     margin: auto;
 
 }
@@ -31,16 +32,12 @@ ul{
 }
 
 a {
-    color: #0b2e13;
+    color: #f0f0f0;
     text-decoration: none;
 }
 .buttonPosition {text-align: left;}
 
-
-#WalesckoRodape{color:#39b3d7;text-align: center; padding: 30px 0;}
-
-
 .lightDark-mode {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #020545;
+    color: #12520F;
 }
