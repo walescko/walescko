@@ -1,6 +1,6 @@
 # Walescko Chimendes
 
-### Professor de Física da Educação Básica\
+### Professor de Física da Educação Básica
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas 
 
 
